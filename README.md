@@ -13,6 +13,7 @@
 * Webaplikácia je navrhnutá pre dosku NodeMCU s napojením na HTTPS variantu stránky. Dáta sú bezpečné, prichádzajú na web v reálnom čase.
 * Systém pracuje aj v offline režime pre prípad výpadku wifi siete, kedy sa správa totožne ako automatický režim pre termostat, relé sú z bezpečnostných dôvodov vypnuté.
 * Ihneď po nadviazaní konektivity s webom sa doska okamžite synchronizuje s webom a riadi sa podľa neho.
+* Používateľské meno a heslo: admin
 # Screenshoty
 ![Prehľad teplôt](https://i.nahraj.to/f/1WbX.PNG)
 ![Prehľad výstupov](https://i.nahraj.to/f/1WbW.PNG)
